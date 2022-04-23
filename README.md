@@ -4,4 +4,4 @@
 
 # When inside docker
 `cd data`
-`python leanring.py`
+`python learning.py`
