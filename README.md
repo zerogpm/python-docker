@@ -4,4 +4,4 @@
 
 # When inside docker
 `cd data`
-`python learning.py`
+`python xxxxx.py`
