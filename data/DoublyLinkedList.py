@@ -30,6 +30,13 @@ class DoublyLinkedList:
         self.length += 1
         return True
 
+    def pop(self):
+        if self.length == 0:
+            return None
+        if self.length == 1:
+
+
+
 my_double_linked_list = DoublyLinkedList(1)
 my_double_linked_list.append(2)
 my_double_linked_list.print_list()
