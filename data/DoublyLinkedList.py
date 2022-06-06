@@ -34,6 +34,7 @@ class DoublyLinkedList:
         if self.length == 0:
             return None
         if self.length == 1:
+            return None
 
 
 
