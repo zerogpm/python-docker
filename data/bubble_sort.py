@@ -8,4 +8,4 @@ def bubble_sort(my_list):
         return my_list
 
 
-print(bubble_sort([2, 1, 3, 4, 5, 6, 7, 9, 8]))
+print(bubble_sort([2, 1, 3]))
