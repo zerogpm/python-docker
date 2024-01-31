@@ -127,5 +127,5 @@ class LinkedList:
 my_linked_list = LinkedList(1)
 my_linked_list.append(2)
 my_linked_list.append(3)
-my_linked_list.reverse()
+my_linked_list.prepend(5)
 my_linked_list.print_list()
